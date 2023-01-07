@@ -27,7 +27,6 @@ function verifyPrime($n)
             return false;
         };
     }
-
     return true;
 }
 nextPrime(12); // 13
